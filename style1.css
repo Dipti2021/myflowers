@@ -1,0 +1,28 @@
+<head>>
+  <style>
+
+    body {
+      padding: 0;
+      margin: 0;
+      font-size: 18px;
+      font-family: Georgia, "Times New Roman", Times,serif;
+      background-color: yellow;
+    }
+
+    
+    h1 {
+      color: black;
+      font-size: 32px;
+      text-align: center;
+      text-transform: uppercase ;
+    }
+    #one{
+        border: rgb(255, 211, 211);
+        display: block; 
+         
+    }
+
+     
+   }
+  </style>
+</head>
